@@ -1,0 +1,7 @@
+id = "cursor-color-theme"
+name = "Cursor Themes"
+version = "0.1.0"
+schema_version = 1
+authors = ["Nitin"]
+description = "A collection of 19 hand-crafted themes: 17 dark and 2 light."
+repository = "https://github.com/flawlessnitin/cursor-themes-zed"
