@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Cursor Themes",
+  "name": "Flawless Themes",
   "author": "Nitin",
   "themes": [
     {
-      "name": "Cursor Dark Theme",
+      "name": "Graphite Dark",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Cursor Dark Pro",
+      "name": "Graphite Pro",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -614,7 +614,7 @@
       }
     },
     {
-      "name": "Cursor Dark VSCode",
+      "name": "Graphite Code",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
